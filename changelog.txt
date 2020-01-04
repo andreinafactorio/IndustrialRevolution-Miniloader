@@ -1,0 +1,15 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.0.1
+Date: 2020-01-03
+  Changes:
+    - Better thumbnail
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 2020-01-03
+  Features:
+    - Change chute recipe to use ingredients available earlier in the game.
+    - Change miniloader (normal/fast/express) recipes using the "Deadlock's Beltboxes & Compact Loaders" mod as a reference.
+    - Change recipe for filter miniloaders is the non-filter counterpart plus a Sensor.
+    - Change icons for filter miniloaders to have a small sensor icon in it, just like the IR filter inserters.
+    - Change colors of filter miniloaders to match colors used by IR filter inserters.
+    - Change sort order for filter miniloaders so they are with their non-filter counterpart.

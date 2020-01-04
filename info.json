@@ -1,0 +1,13 @@
+{
+  "name": "IndustrialRevolution-Miniloader",
+  "factorio_version": "0.17",
+  "version": "1.0.1",
+  "title": "Industrial Revolution & Miniloader Compatibility",
+  "description": "Adjusts Miniloader to work better with Industrial Revolution.",
+  "author": "andreinafactory",
+  "dependencies": [
+  	"base",
+  	"IndustrialRevolution >= 1.0.10",
+    "miniloader >= 1.8.5"
+  ]
+}
